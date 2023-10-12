@@ -1,8 +1,8 @@
 # python-challenege
 Module 3 Challenge
 
-# activate virtual environment in terminal
-"conda activate dev"
+Remeber to activate virtual environment in terminal
+      "conda activate dev"
 
 ## PyBank
 Your task is to create a Python script that analyzes the records to calculate each of the following values:
