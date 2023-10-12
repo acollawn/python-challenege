@@ -31,7 +31,7 @@ Your task is to create a Python script that analyzes the votes and calculates ea
 *The winner of the election based on popular vote
 
 
-Some helpful links:
+### Helpful Resources:
 
 How to create a new line in python - https://towardsdatascience.com/how-to-add-new-line-in-python-f-strings-7b4ccc605f4a#:~:text=Instead%2C%20you%20have%20to%20use,corresponds%20to%20a%20Unicode%20character.
 
